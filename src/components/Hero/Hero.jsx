@@ -18,19 +18,18 @@ const Hero = () => {
                 type: "ease-in",
               }}
             >
-              Discover Suitable
+             Real estate 
               <br />
-              Properties <br />
-              in Lagos
+              tokenisation <br />
+              
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
             <span>
-              Discover a diverse selection of properties tailored to your needs
-              effortlessly
+            Real estate tokenisation is the process of representing ownership of real-world properties as digital tokens on a blockchain. These tokens can represent full or fractional ownership, allowing investors to buy, sell, or trade property interests much like stocks or cryptocurrencies.
             </span>
             <span>
-              Say goodbye to the challenges of securing your perfect home.
+              
             </span>
           </div>
 
@@ -42,24 +41,25 @@ const Hero = () => {
 
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
-              <span>
-                <CountUp start={8800} end={9000} duration={4} /> <span>+</span>
+              <span>$
+                <CountUp start={8800} end={326} duration={4} /> <span>B+</span>
               </span>
-              <span className="secondaryText">Premium Properties</span>
+              <span className="secondaryText">global PropTech
+              market by 2030 </span>
             </div>
 
             <div className="flexColCenter stat">
               <span>
-                <CountUp start={1950} end={2000} duration={4} /> <span>+</span>
+                <CountUp start={0} end={45} duration={4} /> <span>%</span>
               </span>
-              <span className="secondaryText">Happy Customer</span>
+              <span className="secondaryText">Growing At CAGR</span>
             </div>
 
             <div className="flexColCenter stat">
               <span>
-                <CountUp end={28} /> <span>+</span>
+                <CountUp end={80} /> <span>%</span>
               </span>
-              <span className="secondaryText">Awards Winning</span>
+              <span className="secondaryText">  STOs were compliant with SEC or EU regulations.</span>
             </div>
           </div>
         </div>

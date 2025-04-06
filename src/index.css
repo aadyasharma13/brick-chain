@@ -1,10 +1,10 @@
 :root {
-  --primary: #08ce3c;
-  --secondary: rgba(255, 255, 255, 0.78);
-  --black: #131110;
-  --blue-gradient: linear-gradient(97.05deg, #08ce3c 3.76%, #037421 100%);
-  --orange-gradient: linear-gradient(270deg, #618a6c 0%, #476850 100%);
-  --blue: #037421;
+  --primary: #e32168;
+  --secondary: #ffffffc7;
+  --black: #171b59;
+  --blue-gradient: linear-gradient(97.05deg, #ec1d6c 3.76%, #fd75bb 100%);
+  --orange-gradient: linear-gradient(270deg, #ec2c4f 0%, #fe95c9 100%);
+  --blue: #4a1d8e;
   --lightBlue: #eeeeff;
   --shadow: 0px 23px 21px -8px rgba(136, 160, 255, 0.25);
 }
@@ -77,7 +77,7 @@ a {
   font-size: 0.9rem;
 }
 .orangeText {
-  color: #08ce3c;
+  color: #0822ce;
   font-size: 1.5rem;
   font-weight: 600;
 }

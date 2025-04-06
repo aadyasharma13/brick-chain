@@ -1,24 +1,42 @@
 import { HiShieldCheck } from "react-icons/hi";
 import { MdCancel, MdAnalytics } from "react-icons/md";
+const style = document.createElement('style');
+style.innerHTML = `
+  .accordion-button {
+    background-color: #ec2c4f;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  .accordion-button:hover {
+    background-color: #e65a50;
+  }
+`;
+document.head.appendChild(style);
 
 const data = [
   {
     icon: <HiShieldCheck/>,
-    heading: "Best interest rates on the market",
+    heading: <button className="accordion-button">Show Rental Contract</button>,
     detail:
-      "Unlock the door to your dream home with confidence, benefiting from our exclusive access to the best interest rates available. Your financial well-being is our priority, ensuring your investment is both secure and rewarding.",
+      "Access and view the full terms and conditions of your rental agreement, including duration, payment terms, and tenant responsibilities.",
   },
   {
     icon: <MdCancel />,
-    heading: "Prevent unstable prices",
+    heading: <button className="accordion-button">Cancel Contract</button>,
     detail:
-      "Escape the uncertainty of fluctuating property prices. Our expert analysis and market insights shield you from unexpected hikes, providing stability and peace of mind throughout your real estate journey.",
+      "Terminate your existing rental contract under specified terms. Please ensure you review any applicable cancellation policies.",
   },
   {
     icon: <MdAnalytics />,
-    heading: "Best price on the market",
+    heading: <button className="accordion-button">Discover Others</button>,
     detail:
-      "Discover unparalleled value with our commitment to offering the best prices on the market. Our meticulous research and negotiation prowess ensure you receive exceptional deals, making your property aspirations a reality without compromise.",
+      "",
   },
 ];
 

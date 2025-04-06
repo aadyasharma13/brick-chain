@@ -9,10 +9,10 @@ const Contact = () => {
       <div className="paddings innerWidth flexCenter c-container">
         {/* left side */}
         <div className="flexColStart c-left">
-          <span className="orangeText">Our Contact Us</span>
-          <span className="primaryText">Easy to contact us</span>
+          <span className="orangeText"> Contact Us</span>
+          <span className="primaryText">Reach Out to Us</span>
           <span className="secondaryText">
-            We always ready to help by providijng the best services for you. We
+            We always ready to help by providing the best services for you. We
             beleive a good blace to live can make your life better{" "}
           </span>
 
@@ -26,7 +26,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Call</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">+91 7675847299</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Call now</div>
@@ -39,7 +39,7 @@ const Contact = () => {
                   </div>
                   <div className="flexColStart detail">
                     <span className="primaryText">Chat</span>
-                    <span className="secondaryText">021 123 145 14</span>
+                    <span className="secondaryText">+91 7675847299</span>
                   </div>
                 </div>
                 <div className="flexCenter button">Chat now</div>

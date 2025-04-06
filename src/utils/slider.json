@@ -1,38 +1,38 @@
 [
   {
     "name": "Vista Lagos Residence",
-    "price": "47,043,000",
-    "detail": "Located in the heart of Lagos, Vista Lagos Residence offers luxurious living with stunning views of the city skyline. Situated on Lagos Island, this prestigious address provides easy access to business districts, entertainment hubs, and cultural landmarks.",
+    "price": "10 ETH",
+    "detail": "3 BedRooms, 3 BathRooms, 2202 sft",
     "image": "./r1.png"
   },
   {
-    "name": "Emerald Estates",
-    "price": "66,353,000",
-    "detail": "Nestled in the serene suburb of Lekki, Emerald Estates offers a tranquil retreat amidst lush greenery. This exclusive gated community boasts spacious homes, modern amenities, and close proximity to prestigious schools, shopping centers, and recreational facilities.",
+    "name": "Emerald Green Estates",
+   "price": "10 ETH",
+    "detail": "3 BedRooms, 3 BathRooms, 2202 sft",
     "image": "./r2.png"
   },
   {
     "name": "Royal Gardens Estate",
-    "price": "35,853,000",
-    "detail": "Experience the epitome of luxury living at Royal Gardens Estate, located in the bustling city of Abuja. With meticulously landscaped gardens, state-of-the-art security, and premium recreational facilities, this prestigious enclave offers a lifestyle of unparalleled sophistication.",
+    "price": "10 ETH",
+    "detail": "3 BedRooms, 3 BathRooms, 2202 sft",
     "image": "./r3.png"
   },
   {
     "name": "Vista Lagos Residence",
-    "price": "47,043,000",
-    "detail": "Located in the heart of Lagos, Vista Lagos Residence offers luxurious living with stunning views of the city skyline. Situated on Lagos Island, this prestigious address provides easy access to business districts, entertainment hubs, and cultural landmarks.",
+   "price": "10 ETH",
+    "detail": "3 BedRooms, 3 BathRooms, 2202 sft",
     "image": "./r1.png"
   },
   {
-    "name": "Emerald Estates",
-    "price": "66,353,000",
-    "detail": "Nestled in the serene suburb of Lekki, Emerald Estates offers a tranquil retreat amidst lush greenery. This exclusive gated community boasts spacious homes, modern amenities, and close proximity to prestigious schools, shopping centers, and recreational facilities.",
+    "name": "Emerald Green Estates",
+    "price": "10 ETH",
+    "detail": "3 BedRooms, 3 BathRooms, 2202 sft",
     "image": "./r5.jpg"
   },
   {
     "name": "Royal Gardens Estate",
-    "price": "35,853,000",
-    "detail": "Experience the epitome of luxury living at Royal Gardens Estate, located in the bustling city of Abuja. With meticulously landscaped gardens, state-of-the-art security, and premium recreational facilities, this prestigious enclave offers a lifestyle of unparalleled sophistication.",
+    "price": "10 ETH",
+    "detail": "3 BedRooms, 3 BathRooms, 2202 sft",
     "image": "./r6.jpg"
   }
 ]

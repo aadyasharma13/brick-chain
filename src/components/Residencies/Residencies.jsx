@@ -22,11 +22,26 @@ const Residencies = () => {
                 <img src={card.image} alt="home" />
 
                 <span className="secondaryText r-price">
-                  <span style={{ color: "#08ce3c" }}>₦</span>
+                  <span style={{ color: "#e52367" }}>₦</span>
                   <span>{card.price}</span>
                 </span>
                 <span className="primaryText">{card.name}</span>
                 <span className="secondaryText">{card.detail}</span>
+                <button
+                  className="purchase-button"
+                  style={{
+                    marginTop: '10px',
+                    padding: '10px 20px',
+                    backgroundColor: '#ec2c4f',
+                    color: '#fff',
+                    border: 'none',
+                    borderRadius: '4px',
+                    cursor: 'pointer',
+                    fontWeight: 'bold',
+                  }}
+                >
+                  Purchase
+                </button>
               </div>
             </SwiperSlide>
           ))}

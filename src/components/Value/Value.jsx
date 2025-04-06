@@ -24,19 +24,21 @@ const Value = () => {
         <div className="v-left">
           <div className="image-container">
             <img src="./value.png" alt="" />
+            <button className="invest-button">Invest 0.1 ETH</button>
           </div>
         </div>
+        <button className="invest-button">Invest 0.1 ETH</button>
 
         {/* right */}
         <div className="flexColStart v-right">
-          <span className="orangeText">Our Value</span>
+          <span className="orangeText"></span>
 
-          <span className="primaryText">Value We Give to You</span>
+          <span className="primaryText"></span>
 
           <span className="secondaryText">
-            We always ready to help by providijng the best services for you.
+            
             <br />
-            We beleive a good blace to live can make your life better
+           
           </span>
 
           <Accordion
@@ -76,6 +78,10 @@ const Value = () => {
               );
             })}
           </Accordion>
+          {/* <div className="button-group">
+            <button className="contract-button show-history">Show Rental Contract History</button>
+            <button className="contract-button cancel-contract">Cancel Contract</button>
+          </div> */}
         </div>
       </div>
     </section>
