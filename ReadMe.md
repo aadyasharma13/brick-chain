@@ -65,19 +65,3 @@ The project follows a standard folder structure:
 
 
 
-### 🤝 Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the existing code style and conventions.
-### 📜 License
-This project is licensed under the MIT License.
-### 📧 Contact
-If you have any questions or inquiries, please contact the project maintainer at mekuseo@gmail.com.
-
-### 🙏 Acknowledgments
-- Vite - Fast and lightweight build tool for modern web applications
-- React - JavaScript library for building user interfaces
-- Framer Motion - Library for creating smooth animations and transitions
-- React Accessible Accordion - Library for creating accessible accordion components
-- React CountUp - Library for creating animated number counters
-- React Icons - Collection of popular icon packs as React components
-- React Outside Click Handler - Library for handling clicks outside of a specified component
-- Swiper - Library for creating touch-enabled sliders and carousels
